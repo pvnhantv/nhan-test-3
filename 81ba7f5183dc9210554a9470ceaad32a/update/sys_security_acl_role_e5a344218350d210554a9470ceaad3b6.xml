@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-28 03:01:22</sys_created_on>
+        <sys_id>e5a344218350d210554a9470ceaad3b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1523658_leave_ma_leave_caculator.x_1523658_leave_ma.leave_caculator_user</sys_name>
+        <sys_package display_value="Leave management system" source="x_1523658_leave_ma">81ba7f5183dc9210554a9470ceaad32a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave management system">81ba7f5183dc9210554a9470ceaad32a</sys_scope>
+        <sys_security_acl display_value="x_1523658_leave_ma_leave_caculator">65a344218350d210554a9470ceaad3b3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e5a344218350d210554a9470ceaad3b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-28 03:01:22</sys_updated_on>
+        <sys_user_role display_value="x_1523658_leave_ma.leave_caculator_user" name="x_1523658_leave_ma.leave_caculator_user">1da38c2d8310d210554a9470ceaad36e</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
