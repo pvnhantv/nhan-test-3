@@ -5,6 +5,7 @@
             <choice>
                 <element inactive_on_update="false" label="B" value="b"/>
                 <element inactive_on_update="false" label="A" value="a"/>
+                <element inactive_on_update="false" label="C" value="c"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
